@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gabriel, prazer!
 
-- 🔭 Hoje estudo back-end
+- 🔭 Back-end
 - 🌱 Estudando C# e JavaScript
 - 👯 Contato: gabriel.varuzza50@gmail.com
 - 😄 Pronomes: ele/dele
