@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou Gabriel, prazer!
 
-<!--
-**vrzz07/vrzz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estudo back-end
+- 🌱 Estudando C# e JavaScript
+- 
+- 👯 Contato: gabriel.varuzza50@gmail.com
+- 😄 Pronomes: ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/vrzz07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vrzz07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrzz07&layout=compact&langs_count=7&theme=dracula"/>
+</div>
