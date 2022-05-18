@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estudo back-end
 - 🌱 Estudando C# e JavaScript
-- 
 - 👯 Contato: gabriel.varuzza50@gmail.com
 - 😄 Pronomes: ele/dele
 
