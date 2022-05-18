@@ -15,7 +15,6 @@
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Biel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="Biel-Joker"  height="180" widht="190" src="https://cdn.discordapp.com/attachments/682260483054895297/976564686856257576/ianime0.gif">
 </div>
   
   <br>
