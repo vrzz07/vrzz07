@@ -3,7 +3,6 @@
 - 🔭 Back-end
 - 🌱 Estudando C# e JavaScript
 - 👯 Contato: gabriel.varuzza50@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/vrzz07">
