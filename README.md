@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gabriel, prazer!
 
 - 🔭 Back-end
-- 🌱 Estudando C#, JavaScript e Python
+- 🌱 Estudando C#, HTML e Python
 - 👯 Contato: gabriel.varuzza50@gmail.com
 
 <div align="center">
