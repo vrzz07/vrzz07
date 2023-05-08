@@ -2,7 +2,7 @@
 
 - Back-end, Front-end
 - Estudando: C#, PHP, Python;
--                HTML, CSS, JavaScript
+             HTML, CSS, JavaScript
 - Contato: gabriel.varuzza50@gmail.com
 
 <div align="center">
