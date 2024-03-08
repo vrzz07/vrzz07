@@ -1,8 +1,6 @@
 ### Olá! Eu sou Gabriel, prazer!
 
-- Back-end, Front-end
-- Estudando: C#, PHP, Python;
-             HTML, CSS, JavaScript
+- FullStack
 - Contato: gabriel.varuzza50@gmail.com
 
 <div align="center">
