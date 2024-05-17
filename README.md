@@ -1,7 +1,6 @@
 ### Olá! Eu sou Gabriel, prazer!
 
 - FullStack
-- Contato: gabriel.varuzza50@gmail.com
 
 <div align="center">
   <a href="https://github.com/vrzz07">
